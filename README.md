@@ -14,12 +14,12 @@ Um gerenciador de tarefas desktop completo e intuitivo, permitindo organização
 
 ### Tela de Login
 <p align="center">
-  <img src="imgs/img.png" alt="Tela de Login" width="600"/>
+  <img src="gerenciador_final/imgs/img.png" alt="Tela de Login" width="600"/>
 </p>
 
 ### Dashboard Principal
 <p align="center">
-  <img src="imgs/img_1.png" alt="Dashboard" width="800"/>
+  <img src="gerenciador_final/imgs/img_1.png" alt="Dashboard" width="800"/>
 </p>
 
 ---
